@@ -1,1 +1,1 @@
-# techbology-salon
+# technology-salon
